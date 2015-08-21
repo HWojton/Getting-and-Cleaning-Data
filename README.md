@@ -33,6 +33,6 @@ you don't have trouble following along! I included the requirement I completed f
   1. I made the variable names easier to read by removing any special characters line "-" or "()" using the gsub command. (#4)
 
 ##Step 7: Tidy dataset of averages
-  1. I reshaped Samsungdata using the melt and dcast commands then saved the altered data in a dataset called SSData3.
+  1. I reshaped Samsungdata using the melt and dcast commands then saved the altered data in a dataset called SSData3. (#5)
   2. I saved the data in a text file called SSData3.txt using the write.table command.
 
